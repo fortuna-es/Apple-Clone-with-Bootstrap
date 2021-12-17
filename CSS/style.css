@@ -191,6 +191,13 @@ img {
 .links-wrapper ul li a:hover {
   color: #000;
 }
+
+.black-bg-link ul li a:hover {
+	color: #fff;
+  }
+
+
+  
 .first-highlight-wrapper .links-wrapper ul li a:after,
 .second-highlight-wrapper .links-wrapper ul li a:after,
 .third-highlight-wrapper .links-wrapper ul li a:after,
